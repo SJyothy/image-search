@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SJyothy/image-search/static/css/main.b8021f5d.css",
+    "main.js": "/SJyothy/image-search/static/js/main.52c79c97.js",
+    "index.html": "/SJyothy/image-search/index.html",
+    "main.b8021f5d.css.map": "/SJyothy/image-search/static/css/main.b8021f5d.css.map",
+    "main.52c79c97.js.map": "/SJyothy/image-search/static/js/main.52c79c97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8021f5d.css",
+    "static/js/main.52c79c97.js"
+  ]
+}
